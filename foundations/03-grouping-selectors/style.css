@@ -1,0 +1,15 @@
+.this {
+  background-color: black;
+  color: white;
+}
+
+.not {
+  background-color: yellow;
+  color: black;
+}
+
+.this,
+.not {
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
