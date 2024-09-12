@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(255, 156, 172);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#zwei {
+  color: rgb(19, 19, 252);
+  font-size: 36px;
+}
+
+.odd.diff {
+  font-size: 25px;
+}
+
+#vier {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
